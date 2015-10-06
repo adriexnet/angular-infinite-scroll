@@ -1,0 +1,24 @@
+{
+  "name": "angular-infinite-scroll",
+  "version": "1.0.0",
+  "homepage": "https://github.com/adriexnet/angular-infinite-scroll",
+  "authors": [
+    "Brian Mathews <sparkalow>"
+  ],
+  "description": "Infinite scrolling is highly trending as an interaction behavior on pages and lists. The basic functionality is that, as the user scrolls through content, more content is loaded automatically.",
+  "main": "src/infinite-scroll.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
